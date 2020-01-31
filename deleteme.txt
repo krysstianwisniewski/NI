@@ -1,0 +1,10 @@
+ Volume in drive I is DANE
+ Volume Serial Number is D45B-9F83
+
+ Directory of I:\SVN lub Git - repozytoria\Bob\NI
+
+31.01.2020  08:00    <DIR>          .
+31.01.2020  08:00    <DIR>          ..
+31.01.2020  08:00                 0 deleteme.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   4ÿ808ÿ757ÿ248 bytes free
